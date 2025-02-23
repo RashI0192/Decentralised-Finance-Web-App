@@ -4,7 +4,8 @@
 # Why DeFi? 
 <p>Decentralized Finance (DeFi) is reshaping traditional banking by eliminating intermediaries, reducing fees, and enhancing financial accessibility. Built on blockchain technology, DeFi platforms like ValutX empower users with full control over their assets, ensuring security, transparency, and autonomy. </p>
 
-<img width="268" alt="valutX" src="https://github.com/user-attachments/assets/2e312d84-d805-45b6-b748-4718790ce0fe" />
+- <img width="268" alt="valutX" src="https://github.com/user-attachments/assets/2e312d84-d805-45b6-b748-4718790ce0fe" />
+
 ## Key features
 ####  Multi-User Secure Vault
 #### Personalized User Accounts
