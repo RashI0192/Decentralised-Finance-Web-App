@@ -26,7 +26,7 @@
 ```sh
 git clone https://github.com/RashI0192/Decentralised-Finance-Web-App.git
 cd Decentralised-Finance-Web-App
-cd hello
+
 ```
 #### Step 2: Start the Local Replica
 ```sh
