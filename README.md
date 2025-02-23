@@ -1,6 +1,42 @@
-# Decentralised-Finance-Web-App
-<img width="557" alt="Screenshot 2025-02-22 at 11 30 15 AM" src="https://github.com/user-attachments/assets/a8f959b2-e205-457a-bee3-9cfd3885e24a" />
+# ValutX (Version 2) – A Decentralized DeFi Vault
+<p>ValutX is a next-generation Decentralized Finance (DeFi) Vault built on Motoko and the Internet Computer Protocol (ICP). It offers multi-user financial management with PIN-protected transactions, compounding interest, and role-based access control, redefining secure, transparent, and automated banking in a decentralized ecosystem.</p>
 
+# Why DeFi? 
+<p>Decentralized Finance (DeFi) is reshaping traditional banking by eliminating intermediaries, reducing fees, and enhancing financial accessibility. Built on blockchain technology, DeFi platforms like ValutX empower users with full control over their assets, ensuring security, transparency, and autonomy. </p>
+
+## Key features
+####  Multi-User Secure Vault
+- Supports multiple users with PIN-based authentication, ensuring robust security for financial transactions.
+
+#### Personalized User Accounts
+- Each user has a dedicated account balance, securely stored in a decentralized hash map.
+
+#### PIN-Protected Transactions
+- Implements PIN verification to safeguard withdrawals and prevent unauthorized access.
+
+#### Transparent Transaction History
+- Users can access their detailed transaction logs, enhancing financial transparency.
+
+#### Smart Compounding Interest
+- Dynamically grows funds over time using an automated compound interest mechanism.
+
+#### Role-Based Access Control
+- Differentiates between admins and regular users, allowing admins to set interest rates and manage the system.
+
+#### Withdrawal with Fees
+- Ensures sustainable fund management by applying a fixed withdrawal fee to each transaction.
+
+#### Seamless User Management
+- Allows new user registration with role assignments for better account handling.
+
+## Technologies Used
+
+### Backend:
+- Motoko – Smart contract programming language for ICP.
+### Frontend:
+- JavaScript – Frontend logic and integration.
+- CSS – Styling for a user-friendly interface.
+- HTML – Structuring the web interface.
 
 
 ### Instructions to deploy the project :
