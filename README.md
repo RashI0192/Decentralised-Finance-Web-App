@@ -6,16 +6,6 @@
 
 - <img width="268" alt="valutX" src="https://github.com/user-attachments/assets/2e312d84-d805-45b6-b748-4718790ce0fe" />
 
-## Key features
-####  Multi-User Secure Vault
-#### Personalized User Accounts
-#### PIN-Protected Transactions
-#### Transparent Transaction History
-#### Smart Compounding Interest
-#### Role-Based Access Control
-#### Withdrawal with Fees
-#### Seamless User Management
-
 ## Technologies Used
 
 ### Backend:
